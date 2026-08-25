@@ -1,0 +1,1 @@
+from us_visa_approval.components import data_ingestion
