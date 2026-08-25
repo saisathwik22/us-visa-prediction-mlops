@@ -1,1 +1,1 @@
-# us-visa-prediction-mlops
+# US Visa Approval Prediction - MLOps Project
